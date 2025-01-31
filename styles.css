@@ -37,14 +37,18 @@ nav {
 }
 
 nav .left a {
-    color: var(--text-color);
-    font-size: 22px;
-    font-weight: 600;
+  color: var(--text-color);
+  font-size: 22px;
+  font-weight: 600;
 }
 
 nav .right a {
-    color: #0077B5;
+    color: var(--text-color);
     margin: 0 10px;
+}
+
+nav .right a:nth-child(2) {
+    color: #0077B5;
 }
 
 nav .right a:last-child {
@@ -75,6 +79,10 @@ nav .right a span {
 
 .hero-section .text h2 {
   font-size: 45px;
+}
+
+.hero-section .text ul {
+    margin-left: 15px;
 }
 
 .hero-section .text .links {
@@ -200,18 +208,17 @@ nav .right a span {
 }
 .contact-section .group {
     display: flex;
-    gap: 50px;
+    gap: 50px;  
 }
 .contact-section .group .text {
     flex: 3;
     margin-top: 20px;
     text-align: center;
 }
-.contact-section .group .text img {
+.contact-section .group img {
     width: 300px;
     margin-top: 60px;
     border-radius: 50%;
-   
 }
 .contact-section .group form {
     flex: 3;
@@ -324,4 +331,3 @@ footer {
     padding: 0 20px;
   }
 }
-
