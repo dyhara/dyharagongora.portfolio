@@ -50,7 +50,7 @@
 
 <h2>📫 Let's Connect!</h2>
 <ul>
-    <li>🌎 <strong><a href="https://github.com/dyhara">Portfolio</a></strong></li>
+    <li>🌎 <strong><a href="https://dyhara.github.io/dyharagongora.portfolio/">Portfolio</a></strong></li>
     <li>💼 <strong><a href="https://www.linkedin.com/in/dyhara-g">LinkedIn</a></strong></li>
     <li>📧 <strong><a href="mailto:gdgally@gmail.com">Email</a></strong></li>
 </ul>
